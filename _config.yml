@@ -1,9 +1,9 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Blog de Bryan Oroxon'
+description: 'En este sitio encontrarás mis intereses como Xamarin, Azure, C#, Bots y nuevas tecnologías que pueda compartir, como dijo Miguel de Icazá "Con interés cualquiera aprendé". Así que aprendamos juntos.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
+baseurl: ''
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -19,21 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+    bryan:
+      name:           Bryan Oroxon
+      site:           https://github.com/BryanOroxon
+      avatar:         assets/images/img_bryan.jpg
+      bio:            "I really enjoy work with Xamarin.Forms, C#, Xaml, SQL, Azure, Azure Functions, Mobile Apps and find new Challenges! I´m a Legomaniac"
       email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/BryanOroxon
  
 # Defaults
 defaults:
@@ -43,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: Bryan Oroxon
+      avatar: assets/images/img_bryan.jpg
       
   # all pages
   - scope:
