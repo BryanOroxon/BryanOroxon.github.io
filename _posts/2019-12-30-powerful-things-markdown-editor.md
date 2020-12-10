@@ -3,7 +3,7 @@ layout: post
 title:  "Gifs en Xamarin.Forms"
 author: bryan
 categories: [ Xamarin.Forms ]
-image: assets/images/4.jpg
+image: assets/images/gifs_en_xamarin_forms.png
 tags: [featured]
 ---
 Ahora con Xamarin.Forms versión 4.4 podremos utilizar el soporte de archivos .gif y animar nuestras UI´s permitiendo agregar animaciones en Xamarin.forms tanto para Android, iOS y UWP, lo que cual es grandioso al darles vida a nuestras aplicaciones móviles.
