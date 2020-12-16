@@ -4,9 +4,9 @@ description: 'En este sitio encontrarás mis intereses como Xamarin, Azure, C#, 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+disqus: 'blog-de-bryan-oroxon'
+email: 'bryan.oroxon@outlook.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -24,7 +24,7 @@ authors:
       site:           https://github.com/BryanOroxon
       avatar:         assets/images/img_bryan.jpg
       bio:            "Me gustan desarrollar y construir soluciones que brinden valor, algunos de mis intereses son IT Pro, Xamarin Form, Xamarin Android, Xamarin iOS, C#, Azure, Bot Framework y Cisco. Me gustan Construir con Lego."
-      email:          wowthemesnet@gmail.com
+      email:          bryan.oroxon@outlook.com
       twitter:        https://twitter.com/BryanOroxon
       
 # Defaults

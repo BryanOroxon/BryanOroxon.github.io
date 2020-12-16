@@ -2,7 +2,7 @@
 layout: post
 title:  "Gifs en Xamarin.Forms"
 author: bryan
-categories: [ Xamarin.Forms ]
+categories: [ Xamarin.Forms, GIF ]
 image: assets/images/gifs_en_xamarin_forms.png
 tags: [featured]
 ---
