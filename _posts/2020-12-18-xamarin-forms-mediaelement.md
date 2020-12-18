@@ -168,7 +168,7 @@ El código fuente puedes encontrarlo aquí:
 <div align="center">
 <img src="/assets/images/source__code.png" />
 </div>
-[https://github.com/BryanOroxon](https://github.com/BryanOroxon)
+[https://github.com/BryanOroxon/XamarinFormsCT](https://github.com/BryanOroxon/XamarinFormsCT)
 
 
 El resultado del este proyecto debe verse así, con todos los pasos que hemos realizado este proyecto, funciona tanto en Android como en iOS.
